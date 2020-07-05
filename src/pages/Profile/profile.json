@@ -1,0 +1,34 @@
+{
+    "menu": [
+        {
+            "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "name": "Macarronada",
+            "price": "R$ 12,00"
+        },
+        {
+            "image": "https://images.pexels.com/photos/1583884/pexels-photo-1583884.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "name": "Batata Frita",
+            "price": "R$ 8,00"
+        },
+        {
+            "image": "https://images.pexels.com/photos/406152/pexels-photo-406152.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "name": "Salada",
+            "price": "R$ 7,50"
+        },
+        {
+            "image": "https://images.pexels.com/photos/315755/pexels-photo-315755.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "name": "Pizza",
+            "price": "R$ 28,00"
+        },
+        {
+            "image": "https://images.pexels.com/photos/374092/pexels-photo-374092.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "name": "Waffles",
+            "price": "R$ 5,50"
+        },
+        {
+            "image": "https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "name": "X-Burger",
+            "price": "R$ 8,99"
+        }
+    ]
+}

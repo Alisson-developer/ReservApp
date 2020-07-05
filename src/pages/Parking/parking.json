@@ -1,0 +1,31 @@
+{
+    "parkingsVacancy": [
+        {
+            "id": 1,
+            "name": "Road Parking", 
+            "latitude": -7.866250, 
+            "longitude": -35.244711,
+            "imageUrl": "https://images.pexels.com/photos/1756957/pexels-photo-1756957.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "open": true,
+            "wheelchairAccess": true
+        },
+        { 
+            "id": 2,
+            "name": "Shopping Parking", 
+            "latitude": -7.890136, 
+            "longitude": -35.177971,
+            "imageUrl": "https://images.pexels.com/photos/1000633/pexels-photo-1000633.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "open": true,
+            "wheelchairAccess": true
+        },
+        {   
+            "id": 3,
+            "name": "Static Parking", 
+            "latitude": -7.843073, 
+            "longitude":  -35.267878,
+            "imageUrl": "https://images.pexels.com/photos/2220292/pexels-photo-2220292.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "open": true,
+            "wheelchairAccess": true
+        }
+    ]
+}

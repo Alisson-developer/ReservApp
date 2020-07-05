@@ -1,0 +1,39 @@
+{
+    "restaurantList": [
+        {
+            "id": 1,
+            "name": "Japonês", 
+            "latitude": -7.853773, 
+            "longitude": -35.259037,
+            "imageUrl": "https://images.pexels.com/photos/1307698/pexels-photo-1307698.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        },
+        { 
+            "id": 2,
+            "name": "Panelinha", 
+            "latitude": -7.8462148, 
+            "longitude": -35.2550662,
+            "imageUrl": "https://images.pexels.com/photos/704982/pexels-photo-704982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {   
+            "id": 3,
+            "name": "ComeHappy", 
+            "latitude": -7.8426673, 
+            "longitude": -35.3136113,
+            "imageUrl": "https://images.pexels.com/photos/225228/pexels-photo-225228.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        },
+        { 
+            "id": 4,
+            "name": "Sci-fi Food", 
+            "latitude": -7.8020156, 
+            "longitude": -35.2347048,
+            "imageUrl": "https://images.pexels.com/photos/1449775/pexels-photo-1449775.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        },
+        { 
+            "id": 5,
+            "name": "AtHome", 
+            "latitude": -7.8718737, 
+            "longitude": -35.1935532,
+            "imageUrl": "https://images.pexels.com/photos/1055058/pexels-photo-1055058.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        }
+    ]
+}
